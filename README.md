@@ -2,7 +2,7 @@
 
 ## Gustavo Zorzo
 
-Full-stack developer in progress — building solid foundations in Python,JavaScript, Node.js and React.
+Aspiring full-stack developer — building solid foundations in Python, JavaScript, Node.js and React.
 Focused on writing clean, meaningful code and continuously leveling up.
 
 ---
