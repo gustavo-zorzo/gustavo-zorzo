@@ -22,8 +22,7 @@ Focused on writing clean, meaningful code and continuously leveling up.
 
 ### GitHub Stats
 
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-zorzo&show_icons=true&hide_border=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-zorzo&layout=compact&hide_border=true&theme=default)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-zorzo&hide_border=true&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
