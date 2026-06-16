@@ -22,7 +22,7 @@ Focused on writing clean, meaningful code and continuously leveling up.
 
 ### GitHub Stats
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo-zorzo&hide_border=true&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-zorzo)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
