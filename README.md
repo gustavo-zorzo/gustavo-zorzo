@@ -1,8 +1,6 @@
-### Hi there 👋
+## Hi there, I'm Gustavo Zorzo 👋
 
-## Gustavo Zorzo
-
-Aspiring full-stack developer — building solid foundations in Python, JavaScript, Node.js and React.
+Full-stack developer — building with TypeScript, Node.js, React and Python.
 Focused on writing clean, meaningful code and continuously leveling up.
 
 ---
@@ -29,5 +27,4 @@ Focused on writing clean, meaningful code and continuously leveling up.
 ### Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-albiero-zorzo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ggustavo.z/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guzorzo@gmail.com)
