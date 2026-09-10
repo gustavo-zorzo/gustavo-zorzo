@@ -21,7 +21,6 @@ Focused on writing clean, meaningful code and continuously leveling up.
 ### GitHub Stats
 
 ![Stats](./profile/stats.svg?v=1789065665)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gustavo-zorzo)](https://git.io/streak-stats)
 
 ---
 
