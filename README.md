@@ -20,7 +20,7 @@ Focused on writing clean, meaningful code and continuously leveling up.
 
 ### GitHub Stats
 
-![Stats](./profile/stats.svg?v=1789803988)
+![Stats](./profile/stats.svg?v=1789892148)
 
 ---
 
